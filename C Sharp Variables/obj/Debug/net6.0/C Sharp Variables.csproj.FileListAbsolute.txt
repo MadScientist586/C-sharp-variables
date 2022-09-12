@@ -1,0 +1,15 @@
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\bin\Debug\net6.0\C Sharp Variables.exe
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\bin\Debug\net6.0\C Sharp Variables.deps.json
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\bin\Debug\net6.0\C Sharp Variables.runtimeconfig.json
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\bin\Debug\net6.0\C Sharp Variables.dll
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\bin\Debug\net6.0\C Sharp Variables.pdb
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.csproj.AssemblyReference.cache
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.AssemblyInfoInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.AssemblyInfo.cs
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.csproj.CoreCompileInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.dll
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\refint\C Sharp Variables.dll
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.pdb
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\C Sharp Variables.genruntimeconfig.cache
+C:\Users\Justin Martin\Desktop\Repos\C Sharp Variables\C Sharp Variables\obj\Debug\net6.0\ref\C Sharp Variables.dll
